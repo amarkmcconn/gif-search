@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _GIPHY WEB APPLICATION_
 
 #### By _**Caleb Coughenour**_
 
